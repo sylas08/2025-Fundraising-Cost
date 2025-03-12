@@ -71,3 +71,8 @@ variable_expenses = get_expenses("variable")
 num_variable = len(variable_expenses)
 print(f"You entered {num_variable} items")
 print()
+
+# print ("Getting Fixed Costs...")
+# fixed_expenses = get_expenses("fixed")
+# num_fixed = len(fixed_expenses)
+# print (f"You entered {num_fixed} items")
