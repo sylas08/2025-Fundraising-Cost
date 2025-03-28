@@ -61,7 +61,6 @@ def yes_no_check(question):
             print("Please enter yes (y) or no (n).\n")
 
 
-
 def num_check(question, num_type="float", exit_code=None):
     """Checks that response is a float / integer more than zero"""
 
@@ -273,7 +272,7 @@ for item in to_write:
 
 # create file to hold data (add .txt extension)
 file_name = f"{product_name}_{year}_{month}_{day}"
-write_to = "{}.txt" .format(file_name)
+write_to = "{}.txt".format(file_name)
 
 text_file = open(write_to, "w+")
 

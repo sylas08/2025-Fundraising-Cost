@@ -1,0 +1,17 @@
+=== Fund Raising Calculator (Mugs, 21/03/2025) ===
+Quantity being made: 1
+
+
+--- Variable ---
++--------+----------+------------+--------+
+| Item   | Amount   | $ / Item   | Cost   |
+|--------+----------+------------+--------|
+| mugs   | $2.00    | $1.00      | $2.00  |
++--------+----------+------------+--------+
+Variable Expenses Subtotal: $2.00
+
+
+--- You have no Fixed Expenses ---
+
+Fixed Expenses Subtotal: $0.00
+Total Expenses: $2.00
